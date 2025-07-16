@@ -1,8 +1,10 @@
 ## Hi, I'm Brandon 👋
 
-🎸 Guitarist by soul | 💻 Frontend Developer by heart  
+💻 Fullstack Developer
+📱  Mobile Developer
 🌱 I’m learning Springboot  
-💬 Ask me about Javascript and music
+🎸 Passionate about **development** and **music** —  
+💬 Feel free to [ask me about both on LinkedIn](https://www.linkedin.com/in/brandonlr/)
 📫 Reach me: brandoneck@live.com.mx
 
 ---
