@@ -19,5 +19,31 @@
 
 ---
 
-### 🧰 Tech Stack  
-React · Redux · Next.js · Node.js · Firebase · MUI · Git · Nest.Js
+## 🧱 Tech Stack
+
+### 🖥️ Frontend
+- React.js
+- React Native
+- Next.js
+- Redux Toolkit (for global state management)
+- React Context API (`useContext`)
+- React Router
+- CSS Modules / TailwindCSS / Styled Components
+
+### 🛠️ Backend
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+
+### 🧪 Testing
+- Jest
+
+### ⚙️ Tooling & Dev
+- Axios
+- ESLint & Prettier
+- dotenv (environment variables)
+- nodemon *(for standalone Node projects)*
+- Git & GitHub
+- Postman (for API testing)
+
+
