@@ -11,8 +11,8 @@
 
 ### 🚀 My Featured Projects
 
-- 📱 [Mobile Weather App](https://github.com/brandoneck/mobileChallenge)  
-  Optimized mobile-first React Native interface for easy UX.
+- 📱 [Mobile Weather App](https://github.com/brandoneck/weatherApp)  
+  Optimized mobile React Native interface for easy UX.
 
 - 🏥 [Hospital Project](https://github.com/brandoneck/hospital)
   A React + Redux Toolkit based video editing interface.
