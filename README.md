@@ -5,6 +5,7 @@
 🌱 I’m learning Springboot  
 🎸 Passionate about **development** and **music** —  
 💬 Feel free to [ask me about both on LinkedIn](https://www.linkedin.com/in/brandonlr/)
+💼 Portfolio: [https://brandoneck.github.io/](https://brandoneck.github.io/)
 📫 Reach me: brandoneck@live.com.mx
 
 ---
@@ -16,6 +17,9 @@
 
 - 🏥 [Hospital Project](https://github.com/brandoneck/hospital)
   A React + Redux Toolkit based video editing interface.
+
+- 📄 [Invoice Format Converter (AI)](https://github.com/brandoneck/facturasAI)
+  A Python + Gemini API formater to JSON.
 
 ---
 
