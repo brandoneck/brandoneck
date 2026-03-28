@@ -38,6 +38,7 @@
 - Node.js
 - Express.js
 - MongoDB with Mongoose
+- Nest.js
 
 ### 🧪 Testing
 - Jest
