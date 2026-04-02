@@ -11,9 +11,9 @@
 
 ### 💼 Portfolio
 
-![Preview](./assets/portfolio.gif)
+<img src="./assets/portfolio.gif" width="600"/>
 
- [https://brandoneck.github.io/](https://brandoneck.github.io/)
+[https://brandoneck.github.io/](https://brandoneck.github.io/)
 
 
 ---
