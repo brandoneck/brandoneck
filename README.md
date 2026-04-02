@@ -5,8 +5,16 @@
 🌱 I’m learning Springboot  
 🎸 Passionate about **development** and **music** —  
 💬 Feel free to [ask me about both on LinkedIn](https://www.linkedin.com/in/brandonlr/)
-💼 Portfolio: [https://brandoneck.github.io/](https://brandoneck.github.io/)
 📫 Reach me: brandoneck@live.com.mx
+
+---
+
+### 💼 Portfolio
+
+![Preview](./assets/portfolio.gif)
+
+ [https://brandoneck.github.io/](https://brandoneck.github.io/)
+
 
 ---
 
